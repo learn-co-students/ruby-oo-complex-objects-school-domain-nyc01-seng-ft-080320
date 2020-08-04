@@ -1,7 +1,7 @@
 # code here!
 class School
-    attr_reader 
-    attr_writer
+    # attr_reader 
+    # attr_writer
     attr_accessor :roster
 
     def initialize (name)
