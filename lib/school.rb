@@ -27,4 +27,4 @@ class School
     sorted
   end
 end
-binding.pry
+#binding.pry
